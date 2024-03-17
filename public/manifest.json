@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "HexLens",
+    "version": "0.0.1",
+    "description": "HexLens is a browser extension that allows you to view the hex code of any color on a webpage.",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
